@@ -1,18 +1,18 @@
 {
-  "name": "angular-route",
+  "name": "angular-touch",
   "version": "1.2.13-build.2248+sha.b6ab826",
-  "main": "./angular-route.js",
+  "main": "./angular-touch.js",
   "dependencies": {
     "angular": "1.2.13-build.2248+sha.b6ab826"
   },
-  "homepage": "https://github.com/angular/bower-angular-route",
+  "homepage": "https://github.com/angular/bower-angular-touch",
   "_release": "1.2.13-build.2248+sha.b6ab826",
   "_resolution": {
     "type": "version",
     "tag": "v1.2.13-build.2248+sha.b6ab826",
-    "commit": "8d990207716e895916eee3156260d3ae9deb97e5"
+    "commit": "79a5d20403c889741aa712f0e6302a1fb3dc30d4"
   },
-  "_source": "git://github.com/angular/bower-angular-route.git",
+  "_source": "git://github.com/angular/bower-angular-touch.git",
   "_target": "~1.2.12",
-  "_originalSource": "angular-route"
+  "_originalSource": "angular-touch"
 }
