@@ -1,5 +1,5 @@
 {
-	"name": "power-up-panels",
+	"name": "n-spade-cards",
 	"version": "0.0.1",
 	"authors": [
 		"Lukas Olson <olson.lukas@gmail.com>"
@@ -15,8 +15,9 @@
 	],
 	"dependencies": {
 		"lodash": "~2.4.1",
-		"angular": "~1.2.8",
-		"angular-route": "~1.2.8",
+		"angular": "~1.2.12",
+		"angular-route": "~1.2.12",
+		"angular-touch": "~1.2.12",
 		"bootstrap": "~3.0.3"
 	}
 }

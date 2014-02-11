@@ -1,4 +1,4 @@
-angular.module("nSpadeCards", ["ngRoute"]).config(["$routeProvider", function($routeProvider) {
+angular.module("nSpadeCards", ["ngRoute", "ngTouch"]).config(["$routeProvider", function($routeProvider) {
 	$routeProvider.when("/select-coordinate", {
 		controller: "selectCoordinateController",
 		templateUrl: "app/select-coordinate/select-coordinate.html"
