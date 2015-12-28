@@ -1,6 +1,0 @@
-<div ng-repeat="row in cardCombinations[0]">
-	<div ng-repeat="col in row track by $index" class="aggregate-panel">
-		<img ng-src="app/common/images/{{(cardCombinations | crossSection:$parent.$index:$index | aggregatePanel)}}.png" ng-click="selectCoordinate($parent.$index, $index);" />
-	</div>
-</div>
-<button ng-click="reset();" class="fill large-text btn btn-default">Start Over</button>
